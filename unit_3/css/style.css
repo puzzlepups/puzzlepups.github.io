@@ -2,3 +2,9 @@ h1{
 	color:#8627E8;
 	font-family: "Eczar", serif;
 }
+
+h2 {
+	font-family: 'Lora', serif;
+	font-style: italic;
+	font-size: 48px;
+}
