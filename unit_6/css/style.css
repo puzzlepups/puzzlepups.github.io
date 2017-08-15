@@ -15,9 +15,6 @@ nav {
 	padding: 20px;
 }
 
-.navbar {
-	float: left;
-}
 
 aside {
 	background-color: #FFC675;
@@ -61,6 +58,10 @@ p {
 	font-size: 20px;
 	line-height: 1.5em;
 	margin: 2em;
+}
+
+ul {
+	float: left;
 }
 
 
