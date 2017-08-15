@@ -15,6 +15,10 @@ nav {
 	padding: 20px;
 }
 
+.navbar {
+	float: left;
+}
+
 aside {
 	background-color: #FFC675;
 	border: 1px black solid;
