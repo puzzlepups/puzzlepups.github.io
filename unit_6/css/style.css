@@ -70,11 +70,15 @@ p {
 	background-color: #E582A2;
 	border: 1px black solid;
 	padding: 20px;
+	float: left;
+	width: 62%;
 }
 
 #right{
 	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
+	float: right;
+	width: 30%;
 }
 
