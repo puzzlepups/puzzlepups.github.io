@@ -63,6 +63,7 @@ p {
 li {
 	text-transform: uppercase;
 	float: left;
+	padding: 10px;
 
 }
 
