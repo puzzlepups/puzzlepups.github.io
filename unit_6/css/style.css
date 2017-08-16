@@ -15,6 +15,18 @@ nav {
 	padding: 20px;
 }
 
+.navitem {
+	display: inline-block;
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+    padding: 0 30px;
+    text-decoration: none;
+    color: #fff;
+    letter-spacing: 0.075em;
+    position: relative;
+}
+
 
 aside {
 	background-color: #FFC675;
@@ -62,7 +74,7 @@ p {
 
 li {
 	text-transform: uppercase;
-	float: left;
+	text
 	padding: 10px;
 	width: 90%;
 
