@@ -93,8 +93,8 @@ li a {
 	text-decoration: none;
 }
 
-li, a:hover {
-	background-color: blue;
+li a:hover {
+	background-color: red;
 }
 
 #two_column {
