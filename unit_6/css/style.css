@@ -111,3 +111,8 @@ li {
 	clear: both;
 	height: 0;
 }
+
+.container {
+	width: 100%;
+	padding-left: 50px;
+}
