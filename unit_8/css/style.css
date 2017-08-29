@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Eczar');
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
+
+header{
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 5px;
+	width: 100%;
+}
+
+.navitem {
+	display: inline-block;
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+    color: #8627E8;
+    letter-spacing: 0.075em;
+    position: relative;
+}
+
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	color:#8627E8;
+	font-family: 'Arima Madurai', cursive;
+	font-size: 44px;
+}
+
+h2 {
+	font-family: Lora, serif;
+	font-style: italic;
+	font-size: 30px;
+}
+
+p {
+	color:#8627E8;
+	font-family: Lora, serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+ul {
+	list-style-type: none;
+	margin:0;
+	padding: 0;
+	overflow: hidden;
+	background-color: white;
+	width: 100%;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color:pink;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: red;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 62%;
+}
+
+#right{
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 30%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+	background-color: purple;
+}
+
+.wrapper {
+	width: 100%;
+}
