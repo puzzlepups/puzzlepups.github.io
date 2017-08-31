@@ -181,7 +181,7 @@ li a:hover {
     margin: auto; 
 }
 
-@media only screen and (max-width: 992) {
+@media only screen and (max-width: 992px) {
 
 	#left {
 		position: relative;
