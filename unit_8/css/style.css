@@ -186,10 +186,12 @@ li a:hover {
 	#left {
 		position: relative;
 		float: none;
+		width: 100%;
 	}
 
 	#right {
 		position: relative;
 		float: none;
+		width: 100%;
 	}
 }
