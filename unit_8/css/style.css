@@ -146,13 +146,13 @@ li a:hover {
 #dogpics {
 	width: 80%;
 	position: relative;
-	left: 6%;
+	left: 15%;
 }
 
 .floating-box {
     display: inline-block;
     width: 20%;
-    height: 200px;
+    height: 90%;
     margin: auto;
     border: 3px solid #73AD21;  
 }
