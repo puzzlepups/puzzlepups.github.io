@@ -134,6 +134,8 @@ li a:hover {
 .right_article {
 	float: right;
 	width: 68%;
+	position: relative;
+	bottom: 10px;
 }
 
 .clearfix:after {
