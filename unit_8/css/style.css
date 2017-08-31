@@ -124,6 +124,16 @@ li a:hover {
 	width: 20%;
 }
 
+#left_article {
+	float: left;
+	width: 30%;
+}
+
+#right_article {
+	float: right;
+	width: 68%;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
