@@ -129,8 +129,9 @@ li a:hover {
 	float: left;
 	width: 20%;
 	height: auto;
-	margin-bottom: 10px;
-	
+	position: relative;
+	padding: 10px;
+
 }
 
 .right_article {
