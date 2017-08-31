@@ -180,3 +180,11 @@ li a:hover {
     height: auto;
     margin: auto; 
 }
+
+@media only screen and (max-width: 992) {
+
+	aside {
+		position: relative;
+		margin: auto;
+	}
+}
