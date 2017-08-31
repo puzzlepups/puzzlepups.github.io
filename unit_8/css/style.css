@@ -183,12 +183,12 @@ li a:hover {
 
 @media only screen and (max-width: 992) {
 
-	.left {
+	#left {
 		position: relative;
 		float: none;
 	}
 
-	.right {
+	#right {
 		position: relative;
 		float: none;
 	}
