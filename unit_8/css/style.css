@@ -33,6 +33,11 @@ aside {
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
+	position: relative;
+	float: right;
+	width: 20%;
+	top: 0px;
+	bottom: 0px;
 }
 
 article {
