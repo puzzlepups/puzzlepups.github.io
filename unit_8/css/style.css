@@ -124,12 +124,12 @@ li a:hover {
 	width: 20%;
 }
 
-#left_article {
+.left_article {
 	float: left;
 	width: 30%;
 }
 
-#right_article {
+.right_article {
 	float: right;
 	width: 68%;
 }
