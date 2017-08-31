@@ -192,4 +192,12 @@ li a:hover {
 		float: none;
 		width: 100%;
 	}
+
+	#dogpics{
+		float: left;
+	}
+
+	h3, h4 {
+		float: left;
+	}
 }
