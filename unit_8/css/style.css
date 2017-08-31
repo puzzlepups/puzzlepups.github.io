@@ -145,7 +145,8 @@ li a:hover {
 
 #dogpics {
 	width: 80%;
-	position: center;
+	position: relative;
+	left: 2%;
 }
 
 .floating-box {
